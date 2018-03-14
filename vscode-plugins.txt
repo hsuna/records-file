@@ -1,0 +1,15 @@
+1、Beautify：让代码更加好看；
+
+2、Bracket Pair Colorizer：让括号有颜色；
+
+3、Color Info：在颜色#旁显示颜色及颜色盘
+
+4、Path Intellisense：路径提示
+
+5、vscode-icons：让文件有图标
+
+6、HTML CSS Support：html/css提示
+
+7、CSS Peek：css样式跳转
+
+8、Vetur / Vue 2 Snippets / VueHelper：vue帮助之类的
